@@ -4,6 +4,12 @@ This is Just A Simple task
 
 I'M trying in this app to apply what i learn from ionic in {Navigtion} 
 
+- NavController
+- NavParams
+- ToastController
+
+
+
 
 
 ### How To Use My App
