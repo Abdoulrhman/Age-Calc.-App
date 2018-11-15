@@ -14,7 +14,7 @@ I'M trying in this app to apply what i learn from ionic in {Navigtion}
 $ sudo npm install
 ```
 
-Then, to run it, cd into `myBlank` and run:
+Then, to run it:
 
 ```bash
 $ ionic serve
